@@ -68,8 +68,8 @@ iframe {
 
 .game-list iframe {
   width: 100%;           /* makes it fill the parent container */
-  max-width: 800px;      /* optional max width */
-  height: 600px;         /* taller so it’s easier to play */
+  max-width: 8000px;      /* optional max width */
+  height: 6000px;         /* taller so it’s easier to play */
   border: 2px solid #ccc;
   border-radius: 10px;
 }
