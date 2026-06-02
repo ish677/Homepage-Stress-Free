@@ -67,11 +67,11 @@ iframe {
 }
 
 .game-list iframe {
-  width: 100%;           /* makes it fill the parent container */
+  width: 50%;           /* makes it fill the parent container */
   max-width: 80px;      /* optional max width */
   height: 60px;         /* taller so it’s easier to play */
-  border: 2px solid #ccc;
-  border-radius: 10px;
+  border: 20px solid #ccc;
+  border-radius: 100px;
 }
 
 .words {
